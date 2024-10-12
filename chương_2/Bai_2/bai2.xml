@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ds_sinhvien>
+      <sinhvien>
+          <masinhvien>23174600055</masinhvien>
+          <tensinhvien> Nguyễn Văn Nam</tensinhvien>
+          <namsinh>2005</namsinh>
+          <gioitinh>Nam</gioitinh>
+       </sinhvien>
+</ds_sinhvien>

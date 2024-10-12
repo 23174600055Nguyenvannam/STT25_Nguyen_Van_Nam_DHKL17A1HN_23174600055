@@ -1,0 +1,10 @@
+<?xml version ="1.0" encoding="UTF-8"?>
+<company>
+    <name>Công ty TNHH  DE</name>
+    <director>
+        <name>Nguyễn Văn A</name>
+        <contact>
+            <phone>0914598246</phone>
+        </contact>
+    </director>
+</company>
